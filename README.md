@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm a Software Engineering Student 👋
 
-<!--
-**darkizzzlaid2006/darkizzzlaid2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a third-year student at UET-VNU, interested in software development and building practical projects.
 
-Here are some ideas to get you started:
+### Tech Stack
+- **Languages:** Java, C++
+- **Core Concepts:** Object-Oriented Programming (OOP), Data Structures and Algorithms (DSA)
+- **Database:** MySQL
+- **Tools:** Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+- **Flappy Bird:** A 2D game developed as a team project.
+- **Arkanoid:** A 2D brick-breaker game developed as a team project.
+
+### Currently
+- Strengthening my programming fundamentals and problem-solving skills.
+- Learning how to design, develop, and maintain software projects.
+- Looking for opportunities to learn and grow as a software engineer.
+
+Feel free to explore my repositories!
